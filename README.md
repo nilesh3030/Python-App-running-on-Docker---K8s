@@ -10,5 +10,5 @@ A python app that run on the web and counts the words of the text files uploaded
 - **test.txt :** sample text file that has been used to test the app
 - **templates :** This folder has templates for the web pages.
 
-This app has already been packed into a docker images and have been uplaoded pulically on the [docker hub](https://hub.docker.com/repository/docker/nilesh95/wordcount) . One can pull the image directly from the docker hub and run it on kubernets or any other enviornment.
+This app has already been packed into a docker image and have been uplaoded pulically on the [docker hub](https://hub.docker.com/repository/docker/nilesh95/wordcount) . One can pull the image directly from the docker hub and run it on kubernets or any other enviornment.
 Pull command : docker pull nilesh95/wordcount:latest
